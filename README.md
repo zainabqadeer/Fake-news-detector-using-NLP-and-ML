@@ -1,7 +1,6 @@
 # Fake News Detection Using NLP and ML
 
-## Overview
-
+## Overview of the project
 This project classifies news articles as **Fake** or **Real** using Natural Language Processing and Machine Learning.
 
 The dataset contains two files:
