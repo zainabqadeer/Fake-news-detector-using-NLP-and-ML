@@ -1,4 +1,4 @@
-# Fake News Detection Using NLP and Machine Learning
+# Fake News Detection Using NLP and ML
 
 ## Overview
 
